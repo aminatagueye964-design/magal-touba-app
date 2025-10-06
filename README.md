@@ -1,2 +1,7 @@
 "# Application Magal de Touba" 
 "## Projet React pour la communaute Mouride" 
+"### Fonctionnalites :" 
+"- ?? Inscription des pälerins" 
+"- ?? Points d'intÇràt" 
+"- ?? Consultation des horaires de priäres" 
+"- ?? Interface responsive" 
