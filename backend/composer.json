@@ -1,0 +1,8 @@
+{
+    "name": "aminata/magal-backend",
+    "type": "project",
+    "description": "API Laravel pour l'application Magal de Touba",
+    "require": {
+        "laravel/framework": "^10.0"
+    }
+}
